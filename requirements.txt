@@ -1,0 +1,9 @@
+faiss
+pandas 
+python-docx
+SentenceTransformer
+numpy 
+openai
+fastapi
+tempfile
+shutil
